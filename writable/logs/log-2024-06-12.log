@@ -1,0 +1,46 @@
+CRITICAL - 2024-06-12 09:13:20 --> Invalid file: back/usuario/registrarse.php
+#0 C:\xampp\htdocs\ZalazarKaren\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\ZalazarKaren\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\ZalazarKaren\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-12 09:13:25 --> Invalid file: back/usuario/login.php
+#0 C:\xampp\htdocs\ZalazarKaren\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/lo...')
+#1 C:\xampp\htdocs\ZalazarKaren\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/lo...', Array, true)
+#2 C:\xampp\htdocs\ZalazarKaren\app\Controllers\login_controller.php(15): view('back/usuario/lo...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(832): App\Controllers\login_Controller->index()
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_Controller))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-12 09:13:28 --> Invalid file: back/usuario/registrarse.php
+#0 C:\xampp\htdocs\ZalazarKaren\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\ZalazarKaren\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\ZalazarKaren\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-12 09:13:50 --> Invalid file: back/usuario/registrarse.php
+#0 C:\xampp\htdocs\ZalazarKaren\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\ZalazarKaren\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\ZalazarKaren\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-12 13:34:26 --> Class "App\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\ZalazarKaren\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\ZalazarKaren\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ZalazarKaren\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

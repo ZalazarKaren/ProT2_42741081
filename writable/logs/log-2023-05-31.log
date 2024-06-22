@@ -1,0 +1,40 @@
+CRITICAL - 2023-05-31 13:13:25 --> Undefined index: id
+#0 C:\xampp\htdocs\gauna\app\Views\back\usuario\crud_usuarios.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\gauna\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/cr...', Array, true)
+#4 C:\xampp\htdocs\gauna\app\Controllers\usuarios_crud_controller.php(14): view('back/usuario/cr...', Array)
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuarios_crud_controller->index()
+#6 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuarios_crud_controller))
+#7 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-05-31 13:14:31 --> Undefined index: id
+#0 C:\xampp\htdocs\gauna\app\Views\back\usuario\crud_usuarios.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\gauna\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/cr...', Array, true)
+#4 C:\xampp\htdocs\gauna\app\Controllers\usuarios_crud_controller.php(14): view('back/usuario/cr...', Array)
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuarios_crud_controller->index()
+#6 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuarios_crud_controller))
+#7 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-05-31 13:14:52 --> Undefined index: id
+#0 C:\xampp\htdocs\gauna\app\Views\back\usuario\crud_usuarios.php(50): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 50, Array)
+#1 C:\xampp\htdocs\gauna\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/cr...', Array, true)
+#4 C:\xampp\htdocs\gauna\app\Controllers\usuarios_crud_controller.php(14): view('back/usuario/cr...', Array)
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuarios_crud_controller->index()
+#6 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuarios_crud_controller))
+#7 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-05-31 13:34:36 --> Undefined index: id
+#0 C:\xampp\htdocs\gauna\app\Controllers\login_controller.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\login_Controller->auth()
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_Controller))
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

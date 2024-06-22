@@ -1,0 +1,185 @@
+CRITICAL - 2023-06-13 17:14:32 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:14:55 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:15:28 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:15:31 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:16:39 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:16:40 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:17:10 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:18:39 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:19:48 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:21:31 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:40:00 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 17:41:41 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/carrito/ca...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(39): view('back/carrito/ca...', Array)
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->catalogo()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-13 19:21:43 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\gauna\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(107): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->sumarProd()
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-06-13 19:21:56 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\gauna\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(107): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->sumarProd()
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-06-13 19:28:35 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\gauna\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(107): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->sumarProd()
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-06-13 19:29:35 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\gauna\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\gauna\app\Controllers\carritoController.php(120): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\carritoController->restarProd()
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\carritoController))
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-06-13 21:31:24 --> Column 'usuario_id' cannot be null
+CRITICAL - 2023-06-13 21:31:24 --> Column 'usuario_id' cannot be null
+#0 C:\xampp\htdocs\gauna\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ve...', 0)
+#1 C:\xampp\htdocs\gauna\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ve...')
+#2 C:\xampp\htdocs\gauna\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ve...')
+#3 C:\xampp\htdocs\gauna\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ve...', Array, false)
+#4 C:\xampp\htdocs\gauna\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\gauna\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\gauna\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\gauna\app\Controllers\ventas_controller.php(33): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\ventas_controller->compra()
+#9 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ventas_controller))
+#10 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-06-13 22:54:12 --> Creation of dynamic property App\Controllers\ventas_controller::$session is deprecated
+#0 C:\xampp\htdocs\gauna\app\Controllers\ventas_controller.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\gauna\system\CodeIgniter.php(809): App\Controllers\ventas_controller->__construct()
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-13 23:02:28 --> Creation of dynamic property App\Controllers\ventas_controller::$session is deprecated
+#0 C:\xampp\htdocs\gauna\app\Controllers\ventas_controller.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\gauna\system\CodeIgniter.php(809): App\Controllers\ventas_controller->__construct()
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-13 23:30:50 --> Creation of dynamic property App\Controllers\ventas_controller::$session is deprecated
+#0 C:\xampp\htdocs\gauna\app\Controllers\ventas_controller.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\gauna\system\CodeIgniter.php(809): App\Controllers\ventas_controller->__construct()
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-06-13 23:33:49 --> syntax error, unexpected token "(", expecting variable
+#0 C:\xampp\htdocs\gauna\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\gauna\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

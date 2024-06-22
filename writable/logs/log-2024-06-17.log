@@ -1,0 +1,124 @@
+CRITICAL - 2024-06-17 00:29:59 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'Producto_contro...', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('Producto_contro...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Producto_contro...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 00:34:51 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'login_controlle...', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('login_controlle...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('login_controlle...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 00:40:49 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'login_controlle...', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('login_controlle...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('login_controlle...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 00:43:37 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'login_controlle...', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('login_controlle...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('login_controlle...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 00:49:55 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'usuario_control...', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('usuario_control...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('usuario_control...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 00:50:09 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'usuario_control...', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('usuario_control...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('usuario_control...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 09:38:11 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'usuarios', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('usuarios')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('usuarios')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 09:51:16 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'usuario_control...', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('usuario_control...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('usuario_control...')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 09:54:43 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'produ-form', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('produ-form')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('produ-form')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 12:23:13 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'productos', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('productos')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 12:24:40 --> preg_match(): Compilation failed: unknown property after \P or \p at offset 4
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(384): preg_match('#^\\panel$#u', 'principal.php', Array)
+#2 C:\xampp\htdocs\ZalazarKaren\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('principal.php')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('principal.php')
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-06-17 13:07:57 --> Unclosed '{' on line 9
+#0 C:\xampp\htdocs\ZalazarKaren\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\ZalazarKaren\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2024-06-17 14:39:25 --> Cannot add or update a child row: a foreign key constraint fails (`zalazar_karen`.`usuarios`, CONSTRAINT `usuarios_ibfk_1` FOREIGN KEY (`perfil_id`) REFERENCES `perfiles` (`id_perfiles`))
+CRITICAL - 2024-06-17 14:39:26 --> Cannot add or update a child row: a foreign key constraint fails (`zalazar_karen`.`usuarios`, CONSTRAINT `usuarios_ibfk_1` FOREIGN KEY (`perfil_id`) REFERENCES `perfiles` (`id_perfiles`))
+#0 C:\xampp\htdocs\ZalazarKaren\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\ZalazarKaren\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\ZalazarKaren\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\ZalazarKaren\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\ZalazarKaren\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ZalazarKaren\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ZalazarKaren\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\ZalazarKaren\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\ZalazarKaren\app\Controllers\usuario_controller.php(43): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(832): App\Controllers\usuario_controller->formValidation()
+#10 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#11 C:\xampp\htdocs\ZalazarKaren\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ZalazarKaren\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}

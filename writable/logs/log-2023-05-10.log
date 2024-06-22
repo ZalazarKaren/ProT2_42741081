@@ -1,0 +1,91 @@
+CRITICAL - 2023-05-10 14:05:58 --> syntax error, unexpected '}', expecting ';' or ','
+#0 C:\xampp\htdocs\gauna\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\gauna\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-05-10 14:33:18 --> Class 'App\Models\usuario_model' not found
+#0 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->formValidation()
+#1 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-05-10 14:34:00 --> Class 'App\Models\usuario_model' not found
+#0 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->formValidation()
+#1 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-05-10 14:34:56 --> Class 'App\Models\usuario_model' not found
+#0 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->formValidation()
+#1 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#2 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-05-10 14:50:04 --> Invalid file: back/usuario/registro.php
+#0 C:\xampp\htdocs\gauna\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-05-10 14:51:28 --> Invalid file: back/usuario/registro.php
+#0 C:\xampp\htdocs\gauna\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-05-10 14:51:30 --> Invalid file: back/usuario/registro.php
+#0 C:\xampp\htdocs\gauna\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-05-10 14:52:16 --> Invalid file: back/usuario/registro.php
+#0 C:\xampp\htdocs\gauna\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-05-10 14:52:34 --> Invalid file: back/usuario/registro.php
+#0 C:\xampp\htdocs\gauna\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-05-10 14:53:09 --> Invalid file: back/usuario/registro.php
+#0 C:\xampp\htdocs\gauna\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-05-10 14:54:38 --> Invalid file: back/usuario/registro.php
+#0 C:\xampp\htdocs\gauna\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/usuario/re...')
+#1 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/usuario/re...', Array, true)
+#2 C:\xampp\htdocs\gauna\app\Controllers\usuario_controller.php(17): view('back/usuario/re...')
+#3 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\usuario_controller->create()
+#4 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario_controller))
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

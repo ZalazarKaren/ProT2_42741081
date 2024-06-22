@@ -1,0 +1,23 @@
+CRITICAL - 2023-05-24 14:26:36 --> Undefined index: baja
+#0 C:\xampp\htdocs\gauna\app\Views\back\productos\crud_productos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\gauna\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\gauna\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\gauna\system\Common.php(1089): CodeIgniter\View\View->render('back/productos/...', Array, true)
+#4 C:\xampp\htdocs\gauna\app\Controllers\productos_crud_controller.php(14): view('back/productos/...', Array)
+#5 C:\xampp\htdocs\gauna\system\CodeIgniter.php(832): App\Controllers\productos_crud_controller->index()
+#6 C:\xampp\htdocs\gauna\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos_crud_controller))
+#7 C:\xampp\htdocs\gauna\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\gauna\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-05-24 14:34:57 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-05-24 14:36:51 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-05-24 14:36:52 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-05-24 14:36:56 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
